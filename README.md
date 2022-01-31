@@ -47,5 +47,7 @@ I'm a business manager turned full-stack software engineer. I'm passionate about
 
 <br />
 
-### 💬 Ask me anything!
-- 📫 fady_elmallakh@hotmail.com
+### 💬 Connect with me
+
+<a href="https://www.linkedin.com/in/fady-el-mallakh-05a84329/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:fady_elmallakh@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-D14836?style=for-the-badge&logo=hotmail&logoColor=white"></a>
