@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Felmallakh/Felmallakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +16,7 @@ Here are some ideas to get you started:
 
 <br />
 
-## Hi there 👋  I'm Fady.
+### Hi there 👋  I'm Fady.
 I'm a business manager turned full-stack software engineer. I'm passionate about leveraging technology to solve real world problems & address client needs.
 
 
