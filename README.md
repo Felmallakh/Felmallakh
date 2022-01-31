@@ -48,4 +48,4 @@ I'm a business manager turned full-stack software engineer. I'm passionate about
 <br />
 
 ### 💬 Ask me anything!
-- 📫 => fady_elmallakh@hotmail.com
+- 📫 fady_elmallakh@hotmail.com
