@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=Felmallakh&count_private=true&theme=tokyonight)](https://github.com/Felmallakh/github-readme-stats"/>
-<img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WJVincent&theme=vue-dark&layout=compact&custom_title=Favorite%20Languages"/>
+[![](https://github-readme-stats.vercel.app/api?username=Felmallakh&count_private=true&theme=tokyonight)](https://github.com/Felmallakh/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Felmallakh&theme=vue-dark&layout=compact&custom_title=Favorite%20Languages)](https://github.com/Felmallakh/github-readme-stats)
 
 <br />
 
-### Hi there 👋  I'm Fady.
+## Hi there 👋  I'm Fady.
 I'm a business manager turned full-stack software engineer. I'm passionate about leveraging technology to solve real world problems & address client needs.
 
 
@@ -36,7 +36,6 @@ I'm a business manager turned full-stack software engineer. I'm passionate about
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 
 <br />
 <br />
